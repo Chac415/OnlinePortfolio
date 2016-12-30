@@ -1,0 +1,8 @@
+c:\users\chac4_15.uni.006\documents\visual studio 2010\Projects\InClassPractical\InClassPractical\bin\Debug\InClassPractical.exe
+c:\users\chac4_15.uni.006\documents\visual studio 2010\Projects\InClassPractical\InClassPractical\bin\Debug\InClassPractical.pdb
+c:\users\chac4_15.uni.006\documents\visual studio 2010\Projects\InClassPractical\InClassPractical\obj\x86\Debug\InClassPractical.exe
+c:\users\chac4_15.uni.006\documents\visual studio 2010\Projects\InClassPractical\InClassPractical\obj\x86\Debug\InClassPractical.pdb
+E:\InClassPractical\InClassPractical\obj\x86\Debug\InClassPractical.exe
+E:\InClassPractical\InClassPractical\obj\x86\Debug\InClassPractical.pdb
+F:\Scripting\Semster 2\15009953_InClassPractical\InClassPractical\obj\x86\Debug\InClassPractical.exe
+F:\Scripting\Semster 2\15009953_InClassPractical\InClassPractical\obj\x86\Debug\InClassPractical.pdb
